@@ -1,0 +1,30 @@
+commit 1b94d628c6e320ecd3b36f35590b8d1b5a89c5f7
+Merge: 880ff5d 353636a
+Author: Ian <Ianbp2003@gmail.com>
+Date:   Thu Sep 4 20:00:58 2025 -0700
+
+    Resolved merge conflict between main and index-fix
+
+commit 353636ab8b695a5544c328ce992aeab2359637f3
+Author: Ian <Ianbp2003@gmail.com>
+Date:   Thu Sep 4 19:58:59 2025 -0700
+
+    Added favorite game div
+
+commit 880ff5df556d0a8f574c1d88ef031a04ea44045f
+Author: Ian <Ianbp2003@gmail.com>
+Date:   Thu Sep 4 19:57:55 2025 -0700
+
+    Added favorite food div
+
+commit bd444dc3871e48c14e4559963d0eb317c10392c5
+Author: Ian <Ianbp2003@gmail.com>
+Date:   Thu Sep 4 19:43:32 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
